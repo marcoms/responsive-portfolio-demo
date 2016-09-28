@@ -4,21 +4,21 @@ An example responsive portfolio site using a flexbox grid for layout. With thank
 
 ## Layouts
 
-### Natural Grid
-
-![Natural Grid](img/demo/full-width.png)
-
-### Semi Stacked
-
-![Semi Stacked](img/demo/semi-stacked.png)
-
-### Semi Stacked (Centered)
-
-![Semi Stacked (Centered)](img/demo/semi-stacked-centered.png)
-
 ### Stacked
 
 ![Stacked](img/demo/stacked.png)
+
+### Semi Stacked Centered (viewport ≥ 350px)
+
+![Semi Stacked (Centered)](img/demo/semi-stacked-centered.png)
+
+### Semi Stacked (viewport ≥ 500px)
+
+![Semi Stacked](img/demo/semi-stacked.png)
+
+### Natural Grid (viewport ≥ 600px)
+
+![Natural Grid](img/demo/full-width.png)
 
 ## Hover Effects
 
