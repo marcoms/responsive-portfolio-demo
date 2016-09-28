@@ -4,13 +4,9 @@ An example responsive portfolio site using a flexbox grid for layout. With thank
 
 ## Layouts
 
-### Full Width
+### Natural Grid
 
-![Full Width](img/demo/full-width.png)
-
-### Width Constrained
-
-![Width Constrained](img/demo/width-constrained.png)
+![Natural Grid](img/demo/full-width.png)
 
 ### Semi Stacked
 
